@@ -1,101 +1,101 @@
-,movie,year,imdb,votes
-0,The Fabelmans,(2022),8.2,6095
-1,The Fallout,(2021),7.0,18738
-2,Scream,(I) (2022),6.3,112637
-3,Fame,(1980),6.6,23231
-4,The Babysitter: Killer Queen,(2020),5.8,41436
-5,Spider-Man: No Way Home,(2021),8.3,748632
+,Title,Release year,IMDb rating,votes
+0,The Fabelmans,(2022),8.2,6124
+1,The Fallout,(2021),7.0,18768
+2,Scream,(I) (2022),6.3,112655
+3,Fame,(1980),6.6,23235
+4,The Babysitter: Killer Queen,(2020),5.8,41448
+5,Spider-Man: No Way Home,(2021),8.3,748689
 6,When You Finish Saving the World,(2022),6.5,379
-7,The Santa Clause 2,(2002),5.7,58526
-8,Avengers: Endgame,(2019),8.4,1123328
-9,Uncle Buck,(1989),7.1,97775
-10,American Beauty,(1999),8.4,1153668
-11,Licorice Pizza,(2021),7.2,114353
-12,Back to the Future,(1985),8.5,1201030
-13,Transformers,(2007),7.0,639083
-14,Edward Scissorhands,(1990),7.9,492585
-15,Mean Girls,(2004),7.1,386429
-16,10 Things I Hate About You,(1999),7.3,344701
-17,American Pie,(1999),7.0,408732
-18,Darby and the Dead,(2022),5.5,449
-19,Do Revenge,(2022),6.3,35595
-20,Twilight,(I) (2008),5.3,463866
-21,Spider-Man,(2002),7.4,817150
-22,Hereditary,(2018),7.3,316899
-23,Dazed and Confused,(1993),7.6,185393
-24,Almost Famous,(2000),7.9,277635
-25,Catch Me If You Can,(2002),8.1,979271
-26,Another Round,(2020),7.7,158853
-27,The Breakfast Club,(1985),7.8,399938
-28,Ferris Bueller's Day Off,(1986),7.8,360036
-29,Oldboy,(2003),8.4,579083
-30,Donnie Darko,(2001),8.0,801876
-31,Boogie Nights,(1997),7.9,267131
-32,Shazam!,(2019),7.0,338687
-33,CODA,(2021),8.0,131922
-34,I'm Thinking of Ending Things,(2020),6.6,87549
-35,The Outsiders,(1983),7.1,87633
-36,Kick-Ass,(2010),7.6,564389
-37,Superbad,(2007),7.6,581658
-38,Mighty Morphin Power Rangers,(1995),5.2,28028
-39,Scott Pilgrim vs. the World,(2010),7.5,427428
-40,Blue Is the Warmest Colour,(2013),7.7,153496
-41,Napoleon Dynamite,(2004),6.9,221741
-42,The Perks of Being a Wallflower,(2012),7.9,512952
-43,Footloose,(1984),6.6,82254
-44,Hocus Pocus,(1993),6.9,143514
-45,Clueless,(1995),6.9,220493
-46,Starship Troopers,(1997),7.3,297764
-47,"Girl, Interrupted",(1999),7.3,190266
-48,"Love, Rosie",(2014),7.1,142245
-49,Mr. Harrigan's Phone,(2022),6.0,26807
-50,Spider-Man: Homecoming,(2017),7.4,655891
-51,Scream,(1996),7.4,345010
-52,Just Friends,(I) (2005),6.2,119671
-53,Fast Times at Ridgemont High,(1982),7.1,106716
-54,Booksmart,(2019),7.1,120246
-55,Not Another Teen Movie,(2001),5.7,107176
-56,Jumanji: Welcome to the Jungle,(2017),6.9,382239
-57,Instant Family,(2018),7.3,108222
-58,X-Men,(2000),7.3,617079
-59,Scary Movie,(2000),6.2,263404
-60,Hocus Pocus 2,(2022),6.0,43690
-61,The Tomorrow War,(2021),6.5,206001
-62,Godzilla vs. Kong,(2021),6.3,209581
-63,The Princess Diaries,(2001),6.3,148056
-64,Your Name.,(2016),8.4,268351
-65,Lady Bird,(2017),7.4,291814
-66,The Lovely Bones,(2009),6.6,170954
-67,Sixteen Candles,(1984),7.0,117488
-68,The Reader,(2008),7.6,246967
-69,The Karate Kid,(1984),7.3,227206
-70,Easy A,(2010),7.0,392645
-71,Grease,(1978),7.2,277828
-72,Weird Science,(1985),6.6,90332
-73,There's Something About Mary,(1998),7.1,313099
+7,The Santa Clause 2,(2002),5.7,58532
+8,Avengers: Endgame,(2019),8.4,1123449
+9,Uncle Buck,(1989),7.1,97785
+10,American Beauty,(1999),8.4,1153702
+11,Licorice Pizza,(2021),7.2,114374
+12,Back to the Future,(1985),8.5,1201104
+13,Transformers,(2007),7.0,639109
+14,Edward Scissorhands,(1990),7.9,492599
+15,Mean Girls,(2004),7.1,386448
+16,10 Things I Hate About You,(1999),7.3,344722
+17,American Pie,(1999),7.0,408742
+18,Darby and the Dead,(2022),5.6,450
+19,Do Revenge,(2022),6.3,35619
+20,Twilight,(I) (2008),5.3,463870
+21,Spider-Man,(2002),7.4,817179
+22,Hereditary,(2018),7.3,316924
+23,Dazed and Confused,(1993),7.6,185400
+24,Almost Famous,(2000),7.9,277644
+25,Catch Me If You Can,(2002),8.1,979326
+26,Another Round,(2020),7.7,158873
+27,The Breakfast Club,(1985),7.8,399957
+28,Ferris Bueller's Day Off,(1986),7.8,360050
+29,Oldboy,(2003),8.4,579100
+30,Donnie Darko,(2001),8.0,801894
+31,Boogie Nights,(1997),7.9,267137
+32,Shazam!,(2019),7.0,338711
+33,CODA,(2021),8.0,131935
+34,I'm Thinking of Ending Things,(2020),6.6,87555
+35,The Outsiders,(1983),7.1,87636
+36,Kick-Ass,(2010),7.6,564397
+37,Superbad,(2007),7.6,581679
+38,Mighty Morphin Power Rangers,(1995),5.2,28029
+39,Scott Pilgrim vs. the World,(2010),7.5,427447
+40,Blue Is the Warmest Colour,(2013),7.7,153503
+41,Napoleon Dynamite,(2004),6.9,221746
+42,The Perks of Being a Wallflower,(2012),7.9,512969
+43,Footloose,(1984),6.6,82259
+44,Hocus Pocus,(1993),6.9,143518
+45,Clueless,(1995),6.9,220502
+46,Starship Troopers,(1997),7.3,297775
+47,"Girl, Interrupted",(1999),7.3,190277
+48,"Love, Rosie",(2014),7.1,142251
+49,Mr. Harrigan's Phone,(2022),6.0,26815
+50,Spider-Man: Homecoming,(2017),7.4,655927
+51,Scream,(1996),7.4,345024
+52,Just Friends,(I) (2005),6.2,119673
+53,Fast Times at Ridgemont High,(1982),7.1,106718
+54,Booksmart,(2019),7.1,120251
+55,Not Another Teen Movie,(2001),5.7,107180
+56,Jumanji: Welcome to the Jungle,(2017),6.9,382262
+57,Instant Family,(2018),7.3,108226
+58,X-Men,(2000),7.3,617092
+59,Scary Movie,(2000),6.2,263406
+60,Hocus Pocus 2,(2022),6.0,43708
+61,The Tomorrow War,(2021),6.5,206008
+62,Godzilla vs. Kong,(2021),6.3,209592
+63,The Princess Diaries,(2001),6.3,148065
+64,Your Name.,(2016),8.4,268381
+65,Lady Bird,(2017),7.4,291836
+66,The Lovely Bones,(2009),6.6,170956
+67,Sixteen Candles,(1984),7.0,117493
+68,The Reader,(2008),7.6,246974
+69,The Karate Kid,(1984),7.3,227212
+70,Easy A,(2010),7.0,392657
+71,Grease,(1978),7.2,277840
+72,Weird Science,(1985),6.6,90336
+73,There's Something About Mary,(1998),7.1,313105
 74,Power Rangers,(2017),5.9,109019
-75,The Babysitter,(I) (2017),6.3,94691
-76,Spider-Man: Far from Home,(2019),7.4,491577
-77,A History of Violence,(2005),7.4,240585
-78,Wonder,(I) (2017),7.9,165494
-79,The Killing of a Sacred Deer,(2017),7.0,156043
-80,21 Jump Street,(2012),7.2,559112
-81,The Place Beyond the Pines,(2012),7.3,270532
-82,Bad Moms,(2016),6.2,126741
-83,She's All That,(1999),5.9,97321
-84,Cape Fear,(1991),7.3,197129
-85,Silver Linings Playbook,(2012),7.7,710387
-86,Manchester by the Sea,(2016),7.8,283522
-87,Halloween,(1978),7.7,282475
-88,It Follows,(2014),6.8,244593
-89,A Nightmare on Elm Street,(1984),7.4,242255
-90,It Chapter Two,(2019),6.5,266777
-91,Movie 43,(2013),4.3,106652
-92,Percy Jackson & the Olympians: The Lightning Thief,(2010),5.8,190318
-93,Glass,(2019),6.6,244599
-94,Warrior,(2011),8.2,473232
-95,Better Off Dead...,(1985),7.1,45737
-96,Holes,(2003),7.0,90715
-97,Accepted,(2006),6.4,133738
-98,Moonlight,(I) (2016),7.4,309046
-99,Remember the Titans,(2000),7.8,217073
+75,The Babysitter,(I) (2017),6.3,94696
+76,Spider-Man: Far from Home,(2019),7.4,491614
+77,A History of Violence,(2005),7.4,240588
+78,Wonder,(I) (2017),7.9,165498
+79,The Killing of a Sacred Deer,(2017),7.0,156048
+80,21 Jump Street,(2012),7.2,559128
+81,The Place Beyond the Pines,(2012),7.3,270545
+82,Bad Moms,(2016),6.2,126746
+83,She's All That,(1999),5.9,97325
+84,Cape Fear,(1991),7.3,197139
+85,Silver Linings Playbook,(2012),7.7,710403
+86,Manchester by the Sea,(2016),7.8,283534
+87,Halloween,(1978),7.7,282480
+88,It Follows,(2014),6.8,244592
+89,A Nightmare on Elm Street,(1984),7.4,242256
+90,It Chapter Two,(2019),6.5,266794
+91,Movie 43,(2013),4.3,106655
+92,Percy Jackson & the Olympians: The Lightning Thief,(2010),5.8,190317
+93,Glass,(2019),6.6,244609
+94,Warrior,(2011),8.2,473245
+95,Better Off Dead...,(1985),7.1,45739
+96,Holes,(2003),7.0,90721
+97,Accepted,(2006),6.4,133743
+98,Moonlight,(I) (2016),7.4,309062
+99,Remember the Titans,(2000),7.8,217083
